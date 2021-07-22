@@ -13,64 +13,10 @@
       "id": 2
     },
     {
-      "title": "Arif",
-      "body": "Setyo Nugroho",
-      "author": "yoshi",
-      "id": 3
-    },
-    {
       "title": "Hello World",
       "body": "This is hello world",
       "author": "",
       "id": 4
-    },
-    {
-      "title": "Coba post lagi",
-      "body": "Test test",
-      "author": "",
-      "id": 5
-    },
-    {
-      "title": "Coba test dulu",
-      "body": "Oke gas",
-      "author": "yoshi",
-      "id": 6
-    },
-    {
-      "title": "Test default Selected",
-      "body": "Oke gas selected",
-      "author": "",
-      "id": 7
-    },
-    {
-      "title": "Arif ",
-      "body": "Setyo",
-      "author": "",
-      "id": 8
-    },
-    {
-      "title": "Ar",
-      "body": "arrr",
-      "author": "",
-      "id": 9
-    },
-    {
-      "title": "Ar",
-      "body": "arrr",
-      "author": "",
-      "id": 10
-    },
-    {
-      "title": "Ar",
-      "body": "arrr",
-      "author": "yoshi",
-      "id": 11
-    },
-    {
-      "title": "Aadada",
-      "body": "adasdasd",
-      "author": "yoshi",
-      "id": 12
     }
   ]
 }
